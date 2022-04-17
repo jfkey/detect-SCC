@@ -1,5 +1,5 @@
 # detect-SCC
-Detecting Strongly Connected Components for Scholarly Data
+Code for 
 
 # Requirements
 
@@ -8,9 +8,6 @@ Detecting Strongly Connected Components for Scholarly Data
 
 # Usage
 
-- Running our static 
-
- `-f %dir% -t "static" -a "tc_pearce2" -n %nn%  -g "indpp_refine.txt"   -s true -r 1.0`
 
 - Running our single incremental 
  
