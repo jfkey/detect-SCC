@@ -26,7 +26,7 @@ Note that, the static tested algorithms Pearce[1], Tarjan[2], Gabow[3], Kosaraju
   * `dynamic_HKMST_scc.cpp` The source file of incremental algorithm `HKMST`. 
   * `cd4cg.cpp` The main file. 
   * ...
-* `PaperID 92 full paper.pdf`  The full version of paper "Detecting Strongly Connected Components for Scholarly Data". 
+* `full-version.pdf`  The full version of the paper of ICDE24 submission `168` "Incremental Detection of Strongly Connected Components for Scholarly Data". 
 * `README.md` readme file. 
  
 
