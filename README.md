@@ -1,5 +1,5 @@
-# For ICDE Reviewers:
-When linking the reference [34](https://github.com/jfkey/detect-SCC/blob/main/full-version.pdf) to open the full version, you might encounter the issue `unable to render code block`. This is likely caused by the large code block associated with the full version PDF, making it impossible for GitHub to render the content properly. 
+Kindly be aware that:     
+When linking the reference \[34\](https://github.com/jfkey/detect-SCC/blob/main/full-version.pdf) to open the full version, you might encounter the issue `unable to render code block`. This is likely caused by the large code block associated with the full version PDF, making it impossible for GitHub to render the content properly. 
 You have two options to access the full version: (i) directly download the entire GitHub repository or (ii) send an email to liujunfeng@buaa.edu.cn
 
 
