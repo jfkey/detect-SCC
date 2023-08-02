@@ -1,3 +1,8 @@
+# For ICDE Reviewers:
+When linking the reference [34](https://github.com/jfkey/detect-SCC/blob/main/full-version.pdf) to open the full version, you might encounter the issue `unable to render code block`. This is likely caused by the large code block associated with the full version PDF, making it impossible for GitHub to render the content properly. 
+You have two options to access the full version: (i) directly download the entire GitHub repository or (ii) send an email to liujunfeng@buaa.edu.cn
+
+
 # SCC Detection
 This repository implements strongly connected component(SCC) detection for schoarly data, including static algorithm (staDSCC), single incremental algorithm (sinDSCC) and batch incremental algorithms (batDSCC). 
 Note that, the static tested algorithms Pearce[1], Tarjan[2], Gabow[3], Kosaraju[4], and incremental tested algorithms AHRSZ[5], HKMST[6], incSCC+[7], MNR[8] and PK2 [9] are also included. 
